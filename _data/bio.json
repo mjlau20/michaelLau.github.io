@@ -1,18 +1,16 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Michael Lau",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "email": "mjlau20@hawaii.edu",
+    "phone": "808-465-9902",
+    "website": "https://michaelLau.github.io",
+    "summary": "I'm a senior studying under computer engineering at the University of Hawaii at Manoa. I'm expected to graduate in Fall 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "michaelLau", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "michaelLau", "url": "https://www.linkedin.com/in/michael-J-lau" },
     ]
   },
   "interests": [
