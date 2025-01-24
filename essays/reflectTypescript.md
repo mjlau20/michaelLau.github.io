@@ -1,10 +1,9 @@
-
 layout: essay
 type: essay
 title: "All Roads Leads Back to Computer Science"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-23
-published: false
+published: true
 labels:
   - Typescript
   - ComputerScience
