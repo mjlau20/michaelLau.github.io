@@ -1,3 +1,4 @@
+---
 layout: essay
 type: essay
 title: "All Roads Leads Back to Computer Science"
