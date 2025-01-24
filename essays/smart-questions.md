@@ -11,8 +11,6 @@ labels:
   - AthleticSoftwareEngineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
-
 
 ## I'm back!
 
