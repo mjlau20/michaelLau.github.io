@@ -1,99 +1,38 @@
----
+![image](https://github.com/user-attachments/assets/03c36aa8-da85-4ef9-a31c-b0eb07aa4105)---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "All Roads Leads Back to Computer Science"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2025-01-23
+published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Typescript
+  - ComputerScience
+  - AthleticSoftwareEngineering
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+## I'm back!
 
-## What’s a smart question?
+Specifically Software Engineering. The first major I took in college was computer science. My older brother was a fellow alumni in computer science and I wanted to follow in his footsteps. After my first year in Computer Science with Java programming, I quit. I didn’t want to stare at a screen and identify bugs for a whole day. I didn’t like the idea of constantly programming especially during the COVID era. At the time, that was my perception of computer science. When I look back at my younger self, I wish he could have stuck with the degree for a little longer. There’s more than just programming; it’s a lifestyle or a way of thinking. The career field is vast amongst evolving technologies. That’s what I’ve come to learn during my current major, Computer Engineering.
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+It’s ironic that I went to another degree with computer in the name and similar material, career pathways, and workload. Both degrees encompass similar topics that branch into almost identical careers. Though, there is a difference that is the inclusion of Electrical Engineering opening more possibilities within the tech field. Besides that, my perception of Computer Science has drastically changed since I left. It wasn’t all the programming that I disliked, but the feeling of being overwhelmed. I didn’t push myself to overcome the challenge of helplessness and wanted to move on. That’s not right. This time, I want to amend any regret with the bountiful knowledge that I gained on my journey.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+Below is a video for more info about the difference between Comp Science & Engineering:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nKEupNYjlZk?si=feyBCmvXN6K8e2Qd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-```
-Q: python date of the previous month
+## Athletic Software Engineering
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+You can’t be narrow minded as there are many fields within Computer Science: data scientist, cybersecurity, machine learning, software developer, and etc. My welcome back dives into Software Engineering. WIthin the first couple weeks of taking a course in this field, I’ve experienced a ton of practical knowledge that could be applicable to my future career. The idea of Athletic Software Engineering is the core motivation behind this gain. Weekly WODs (Workouts of the Day), intensive practice sessions of numerous skills, and collaborative or independent projects. These are prime examples to a deeper mindset of learning. Software engineering by itself contains a lot of topics to cover, but the effort to learn and understand the concepts stems from the teaching methodology. Having a rigorous learning environment develops these skills. The athletic part makes us do exercise after exercise like sports but for our brain.
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
+## Typescript Thoughts
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+All of this buildup leads to the first new skills that I’ve learned in my return. Javascript and Typescript. It’s not bad. As a starting point, the language is great to learn as it’s used for practical web development. I heard Typescript also makes Javascript easier, but I don't have enough experience to make that judgement. Over my academic career, there've been so many languages that I interacted with like C/C++, Python, Assembly, Java, SQL and more. Typescript is amongst the top that I can see myself using for a future job. Web development is such an interesting pathway to take and probably what I would do if I stayed in Computer Science. Adapting to this language has been easier due to previous programming experience especially in Object Oriented with objects and interfaces. This can be attributed back to Athletic Software Engineering.
 
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+<img src="https://i.redd.it/b70t2si6yrd61.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 4211px; height: 187px; margin: 9.5px 0px; width: 351px;">
 
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+In my concluding thoughts, the first couple of weeks using Typescript has been enjoyable and I want to continue to keep pushing myself to be better everyday. The concepts were simple and similar to other languages, but the effort in practicing and having an open mindset for creativity will play a huge factor in learning. I want to learn as much in web development.
