@@ -29,7 +29,7 @@ You can’t be narrow minded as there are many fields within Computer Science: d
 
 All of this buildup leads to the first new skills that I’ve learned in my return. Javascript and Typescript. It’s not bad. As a starting point, the language is great to learn as it’s used for practical web development. I heard Typescript also makes Javascript easier, but I don't have enough experience to make that judgement. Over my academic career, there've been so many languages that I interacted with like C/C++, Python, Assembly, Java, SQL and more. Typescript is amongst the top that I can see myself using for a future job. Web development is such an interesting pathway to take and probably what I would do if I stayed in Computer Science. Adapting to this language has been easier due to previous programming experience especially in Object Oriented with objects and interfaces. This can be attributed back to Athletic Software Engineering.
 
-![image](https://github.com/user-attachments/assets/03c36aa8-da85-4ef9-a31c-b0eb07aa4105)---
+![image](https://github.com/user-attachments/assets/03c36aa8-da85-4ef9-a31c-b0eb07aa4105)
 
 ## Conclusion
 
