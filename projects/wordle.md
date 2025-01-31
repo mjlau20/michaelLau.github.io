@@ -16,3 +16,4 @@ summary: "Implemented the greedy method to complete the game Wordle."
   <img src="https://www.insidehighered.com/sites/default/files/styles/max_650x650/public/media/GettyImages-1237931743.jpg?itok=pCVrxttk" >
 </div>
 
+Here's an excerpt from the code file: [wordleMatchFunction](wordleMatch.md)
