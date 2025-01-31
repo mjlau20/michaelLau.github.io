@@ -3,7 +3,7 @@ layout: project
 type: project
 image: https://www.codeproject.com/KB/recipes/692277/1.png
 title: "Goats & Tiger"
-date: 2022 - Present
+date: 2023 - Present
 published: true
 labels:
   - Reinforcement Learning
