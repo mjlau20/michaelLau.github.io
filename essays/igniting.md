@@ -26,8 +26,8 @@ labels:
 
 <div align="center">
 
-An example that highlights the flaws is this StackOverflow post: 
-  [Non Smart Question Post](https://stackoverflow.com/questions/12345620/how-to-remove-grey-border-from-facebook-lightbox-pop-up)
+An example that highlights the flaws is this StackOverflow post: [Non Smart Question Post](https://stackoverflow.com/questions/12345620/how-to-remove-grey-border-from-facebook-lightbox-pop-up)
+
 </div>
 
 &nbsp; &nbsp; &nbsp; &nbsp;The user wanted to remove a grey boarder from a pop up within Facebook. This is almost verbatim to his subject and post. It’s fine as a subject, but making the request identical isn’t all helpful. No mention of steps taken, problems stopping the goal, nor a link/picture in the original request. Only then after people posted solutions, did he link a picture of the goal. Not to hate on the user, these comments only aim at the context of the post. It isn’t all bad. People did reply with solutions. We will get into more details about that later in the paper. He correctly tagged the post with {html, jquery, css, facebook}. His goal was upfront and he did reply to the solutions with courtesy. This leads to the outlook of questions from the other perspective.
@@ -42,8 +42,8 @@ An example that highlights the flaws is this StackOverflow post:
 
 <div align="center"> 
 
-This StackOverflow post demonstrates a smart question: 
-[Smart Question Post](https://stackoverflow.com/questions/79385866/numpy-array-boolean-indexing-to-get-containing-element)
+This StackOverflow post demonstrates a smart question: [Smart Question Post](https://stackoverflow.com/questions/79385866/numpy-array-boolean-indexing-to-get-containing-element)
+
 </div>
 
 &nbsp; &nbsp; &nbsp; &nbsp;The user is using numpy in Python to obtain array elements(subarrays) within an array. This array of subarrays can be considered a matrix of the 3rd dimension. In a singular array element, there are 3 columns each representing coordinate points. He discusses in the question that he wants certain subarrays that fit the conditions based on the coordinate point values. This can be better explained by the first solution who clarifies the OP(original poster). 
@@ -57,7 +57,8 @@ This StackOverflow post demonstrates a smart question:
 &nbsp; &nbsp; &nbsp; &nbsp;With all that said, how does this apply to “smart” software engineers? Well as the saying goes in the last section, collaboration. Depending on the situation, there can be obvious or abstract problems that we need to figure out. How we figure them out as a community of developers relies on us to put in the effort and cooperate. Alongside helping one another, each individual must put in the effort to improve their own skills and understanding. Identifying “smart” questions is a part of that process. Knowing how that's done has now given me a tool that I can utilize when asking or answering others’ questions. 
 
 ## References
-&nbsp; &nbsp; &nbsp;[1]“How To Ask Questions The Smart Way,” [www.catb.org](www.catb.org). [http://www.catb.org/esr/faqs/smart-questions.html](http://www.catb.org/esr/faqs/smart-questions.html)
+&nbsp; &nbsp; &nbsp;[1]&nbsp;&nbsp;“How To Ask Questions The Smart Way,”
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;[www.catb.org](www.catb.org). [http://www.catb.org/esr/faqs/smart-questions.html](http://www.catb.org/esr/faqs/smart-questions.html)
 
 ## AI Usage
 &nbsp; &nbsp; &nbsp;AI was used to search up a "not smart" question example in StackOverflow.
