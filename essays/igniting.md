@@ -60,8 +60,7 @@ align="center">
 
 ## References
 &nbsp; &nbsp; &nbsp;[1] &nbsp; &nbsp; &nbsp; “How To Ask Questions The Smart Way,” [www.catb.org](www.catb.org).
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="http://www.catb.org/esr/faqs/smart-questions.html/">Smart Question Example </a>
-
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="http://www.catb.org/esr/faqs/smart-questions.html/">http://www.catb.org/esr/faqs/smart-questions.html</a>
 
 ## AI Usage
 &nbsp; &nbsp; &nbsp;AI was used to search up a "not smart" question example in StackOverflow.
