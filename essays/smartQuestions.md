@@ -59,8 +59,8 @@ align="center">
 &nbsp; &nbsp; &nbsp; &nbsp;With all that said, how does this apply to “smart” software engineers? Well as the saying goes in the last section, collaboration. Depending on the situation, there can be obvious or abstract problems that we need to figure out. How we figure them out as a community of developers relies on us to put in the effort and cooperate. Alongside helping one another, each individual must put in the effort to improve their own skills and understanding. Identifying “smart” questions is a part of that process. Knowing how that's done has now given me a tool that I can utilize when asking or answering others’ questions. 
 
 ## References
-&nbsp; &nbsp; &nbsp;[1] &nbsp; &nbsp; &nbsp; “How To Ask Questions The Smart Way,” [www.catb.org](www.catb.org).
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [http://www.catb.org/esr/faqs/smart-questions.html](http://www.catb.org/esr/faqs/smart-questions.html)
+&nbsp; &nbsp; &nbsp;[1] &nbsp; &nbsp; &nbsp; “How To Ask Questions The Smart Way,” <a href="www.catb.org">www.catb.org</a>.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="http://www.catb.org/esr/faqs/smart-questions.html">http://www.catb.org/esr/faqs/smart-questions.html</a>
 
 ## AI Usage
 &nbsp; &nbsp; &nbsp;AI was used to search up a "not smart" question example in StackOverflow.
