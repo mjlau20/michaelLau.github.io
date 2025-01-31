@@ -37,4 +37,4 @@ break from the project for 2 semesters, and they trained a model that would beat
 The model is still beatable, but it took a group of us to take it down. RL is a apart of machine learning in which agents learn to 
 interact with an environment through actions to maximize rewards. You can check out more info on RL below:
 
-<a src="https://en.wikipedia.org/wiki/Reinforcement_learning/">https://en.wikipedia.org/wiki/Reinforcement_learning </a>
+<a href="https://en.wikipedia.org/wiki/Reinforcement_learning/">https://en.wikipedia.org/wiki/Reinforcement_learning </a>
