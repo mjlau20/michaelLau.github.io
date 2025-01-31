@@ -9,8 +9,6 @@ labels:
   - StackOverflow
   - Smart Questions
 ---
-Insider to "smart" and "not smart" questions through StackOverflow posts.
----
 
 # Intro to ... ?
 
@@ -28,7 +26,8 @@ Insider to "smart" and "not smart" questions through StackOverflow posts.
 
 <div align="center">
 
-An example that highlights the flaws is this StackOverflow post: [Non Smart Question Post](https://stackoverflow.com/questions/12345620/how-to-remove-grey-border-from-facebook-lightbox-pop-up)
+An example that highlights the flaws is this StackOverflow post: 
+  [Non Smart Question Post](https://stackoverflow.com/questions/12345620/how-to-remove-grey-border-from-facebook-lightbox-pop-up)
 </div>
 
 &nbsp; &nbsp; &nbsp; &nbsp;The user wanted to remove a grey boarder from a pop up within Facebook. This is almost verbatim to his subject and post. It’s fine as a subject, but making the request identical isn’t all helpful. No mention of steps taken, problems stopping the goal, nor a link/picture in the original request. Only then after people posted solutions, did he link a picture of the goal. Not to hate on the user, these comments only aim at the context of the post. It isn’t all bad. People did reply with solutions. We will get into more details about that later in the paper. He correctly tagged the post with {html, jquery, css, facebook}. His goal was upfront and he did reply to the solutions with courtesy. This leads to the outlook of questions from the other perspective.
@@ -43,14 +42,15 @@ An example that highlights the flaws is this StackOverflow post: [Non Smart Ques
 
 <div align="center"> 
 
-This StackOverflow post demonstrates a smart question: [Smart Question Post](https://stackoverflow.com/questions/79385866/numpy-array-boolean-indexing-to-get-containing-element)
+This StackOverflow post demonstrates a smart question: 
+[Smart Question Post](https://stackoverflow.com/questions/79385866/numpy-array-boolean-indexing-to-get-containing-element)
 </div>
 
 &nbsp; &nbsp; &nbsp; &nbsp;The user is using numpy in Python to obtain array elements(subarrays) within an array. This array of subarrays can be considered a matrix of the 3rd dimension. In a singular array element, there are 3 columns each representing coordinate points. He discusses in the question that he wants certain subarrays that fit the conditions based on the coordinate point values. This can be better explained by the first solution who clarifies the OP(original poster). 
 
 &nbsp; &nbsp; &nbsp; &nbsp;Already, there’s a clear difference between the two posts. It includes his struggles, his current code, and an expected result. The question was eloquent and his goal was clear in the subject. The post also had the correct tags {python, numpy}. A drastic improvement was definitely laying out the code, allowing the reader to grasp the context easier. Comparing the solutions from both questions, the response time is alike according to their difficulty. The main contrast is the dedication of the solution. The “smart” question response was more detailed, granted the problem was more complex and the OP didn’t fully understand at first. The “not smart” question was vague in expectation similar to its response. There’s some correlation you could get of this especially after remembering another life quote, “Treat others how you want to be treated.” Rather than being negative on the first post, I think it’s a testament to the community for helping each other whether the request is “smart” or “not smart.”
 
-<img align="right" src="https://media.graphassets.com/resize=fit:crop,width:1280,height:660/8lhiw6WBSJ2P5Wgv6CY7">
+<img width=600 align="right" src="https://media.graphassets.com/resize=fit:crop,width:1280,height:660/8lhiw6WBSJ2P5Wgv6CY7">
 
 # Overall
 
