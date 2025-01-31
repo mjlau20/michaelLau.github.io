@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://www.codeproject.com/KB/recipes/692277/1.png
+image: www.codeproject.com/KB/recipes/692277/1.png
 title: "Goats & Tiger"
 date: 2023 - Present
 published: true
@@ -37,4 +37,4 @@ break from the project for 2 semesters, and they trained a model that would beat
 The model is still beatable, but it took a group of us to take it down. RL is a apart of machine learning in which agents learn to 
 interact with an environment through actions to maximize rewards. You can check out more info on RL below:
 
-<a href="https://en.wikipedia.org/wiki/Reinforcement_learning">https://en.wikipedia.org/wiki/Reinforcement_learning </a>
+[https://en.wikipedia.org/wiki/Reinforcement_learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
