@@ -15,13 +15,11 @@ labels:
 
 &nbsp; &nbsp; &nbsp; &nbsp;It’s ironic that I went to another degree with computer in the name and similar material, career pathways, and workload. Both degrees encompass similar topics that branch into almost identical careers. Though, there is a difference that is the inclusion of Electrical Engineering opening more possibilities within the tech field. Besides that, my perception of Computer Science has drastically changed since I left. It wasn’t all the programming that I disliked, but the feeling of being overwhelmed. I didn’t push myself to overcome the challenge of helplessness and wanted to move on. That’s not right. This time, I want to amend any regret with the bountiful knowledge that I gained on my journey.
 
-<div align="center"
-
+<p align="center">
 Below is a video for more info about the difference between Comp Science & Engineering:
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nKEupNYjlZk?si=feyBCmvXN6K8e2Qd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
-</div>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/nKEupNYjlZk?si=feyBCmvXN6K8e2Qd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -33,7 +31,7 @@ Below is a video for more info about the difference between Comp Science & Engin
 
 &nbsp; &nbsp; &nbsp; &nbsp;All of this buildup leads to the first new skills that I’ve learned in my return. Javascript and Typescript. It’s not bad. As a starting point, the language is great to learn as it’s used for practical web development. I heard Typescript also makes Javascript easier, but I don't have enough experience to make that judgement. Over my academic career, there've been so many languages that I interacted with like C/C++, Python, Assembly, Java, SQL and more. Typescript is amongst the top that I can see myself using for a future job. Web development is such an interesting pathway to take and probably what I would do if I stayed in Computer Science. Adapting to this language has been easier due to previous programming experience especially in Object Oriented with objects and interfaces. This can be attributed back to Athletic Software Engineering.
 
-<img align="center" src="https://i.redd.it/b70t2si6yrd61.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 4211px; margin: 9.5px 0px; width: 600px;" alt="Me after learning TypeScript : r/ProgrammerHumor" jsname="kn3ccd" aria-hidden="false">
+<img align="center" wdith=100 src="https://i.redd.it/b70t2si6yrd61.png">
 
 ## Conclusion
 
