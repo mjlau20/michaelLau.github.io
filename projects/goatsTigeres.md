@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: www.codeproject.com/KB/recipes/692277/1.png
+image: img/tigerGoats.jpg
 title: "Goats & Tiger"
 date: 2023 - Present
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "VIP(Vertically Integrated Project) for ECEx96 about AI and board games"
 ---
 
-<img width=800 align="left" src="https://www.codeproject.com/KB/recipes/692277/1.png">
+<img width=800 class="img-fluid" align="left" src="../img/tigerGoats.jpg">
 
 ---
 
