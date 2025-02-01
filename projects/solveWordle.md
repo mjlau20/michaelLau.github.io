@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://www.insidehighered.com/sites/default/files/styles/max_650x650/public/media/GettyImages-1237931743.jpg?itok=pCVrxttk
+image: img/phoneWordle.jpg
 title: "Wordle Solver"
 date: 2022 - 2023
 published: true
@@ -15,7 +15,7 @@ summary: "Created multiple ways to find the best word to use each time. Methods 
 <div align="right" >
   <img 
      class="rounded float-start pe-4" 
-     src="https://www.insidehighered.com/sites/default/files/styles/max_650x650/public/media/GettyImages-1237931743.jpg?itok=pCVrxttk" >
+     <img class="img-fluid" src="../img/phoneWordle.jpg">>
 </div>
 
 ---
