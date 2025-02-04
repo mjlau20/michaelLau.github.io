@@ -3,10 +3,11 @@ layout: essay
 type: essay
 title: "The difficult things will always be difficult"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2025-02-04
 published: false
 labels:
-  - Engineering
+  - TypeScript
+  - JavaScript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
