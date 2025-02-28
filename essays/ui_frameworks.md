@@ -25,7 +25,9 @@ labels:
 
 &nbsp; &nbsp; &nbsp; &nbsp;This highlights why learning C or HTML first is key to understanding how to mold more complex code. Learning Bootstrap after HTML wasn’t the worst, unlike my first rodeo with C and C++. That experience was a major turning point in combining passion and work. Bootstrap 5 introduced a new layout on the navigation bar, rows, columns, and split background on websites. The split background can be seen in the picture below with a footer on the top separated from the body. Some other features include the columns with their own respective boxes of text and the individual wording in the footer. 
 
-<img width="400px" class="rounded float-start pe-4" src="../img/simplebrowser.png">
+<div align="center">
+  <img width="400px" class="rounded pe-4" src="../img/simplebrowser.png">  
+</div>
 
 ## Final Thoughts!
 
